@@ -1,6 +1,6 @@
 # Azure Mastery Journey
 
-![Add a heading(13)](https://github.com/Kaushal-Kd/Azure-Mastery-Journey)
+![Add a heading(13)](https://github.com/Kaushal-Kd/Azure-Mastery-Journey/blob/main/2653577-confidential-computing-azure-thumbnail.avif)
 
 ## If you like the content, Don't forget to give this repository a :star:
 
